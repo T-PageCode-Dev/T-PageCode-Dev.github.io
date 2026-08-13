@@ -20,16 +20,16 @@ header{
 }
 #text1{
     position: absolute;
-    top: 7%;
-    left: 20%;
+    top: 90px;
+    left: 220px;
     transform: translate(-50%,-50%);
     color: white;
     font-size: 40px;
 }
 #btn1{
     position: absolute;
-    top: 17%;
-    left: 15%;
+    top: 215px;
+    left: 160px;
     transform: translate(-50%,-50%);
     color: black;
     width: 180px;
@@ -55,8 +55,8 @@ header{
 }
 #btn2{
     position: absolute;
-    top: 17%;
-    left: 38%;
+    top: 215px;
+    left: 400px;
     transform: translate(-50%,-50%);
     color: black;
     width: 250px;
